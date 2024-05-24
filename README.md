@@ -19,7 +19,7 @@ I'm a dedicated JavaScript backend developer with a strong foundation in buildin
 ### Languages & Frameworks
 
 -   Languages: JavaScript, TypeScript
--   Frameworks: Node.js, Express, NestJS
+-   Frameworks: Node.js, Express, NestJS, react, nextjs
 -   ORMs: TypeORM, Mongoose
 -   Databases: MongoDB, PostgreSQL, MySQL
 
